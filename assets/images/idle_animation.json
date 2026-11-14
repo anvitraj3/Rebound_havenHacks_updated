@@ -1,0 +1,349 @@
+{
+  "schema": "sprite-sheet-tools/v1",
+  "frames": [
+    {
+      "id": "gif-frame-0",
+      "name": "sprite-animation-frame-001.png",
+      "index": 0,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    },
+    {
+      "id": "gif-frame-1",
+      "name": "sprite-animation-frame-002.png",
+      "index": 1,
+      "frame": {
+        "x": 32,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 32,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    },
+    {
+      "id": "gif-frame-2",
+      "name": "sprite-animation-frame-003.png",
+      "index": 2,
+      "frame": {
+        "x": 64,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 64,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    },
+    {
+      "id": "gif-frame-3",
+      "name": "sprite-animation-frame-004.png",
+      "index": 3,
+      "frame": {
+        "x": 0,
+        "y": 32,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 0,
+        "y": 32,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    },
+    {
+      "id": "gif-frame-4",
+      "name": "sprite-animation-frame-005.png",
+      "index": 4,
+      "frame": {
+        "x": 32,
+        "y": 32,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 32,
+        "y": 32,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    },
+    {
+      "id": "gif-frame-5",
+      "name": "sprite-animation-frame-006.png",
+      "index": 5,
+      "frame": {
+        "x": 64,
+        "y": 32,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 64,
+        "y": 32,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    },
+    {
+      "id": "gif-frame-6",
+      "name": "sprite-animation-frame-007.png",
+      "index": 6,
+      "frame": {
+        "x": 0,
+        "y": 64,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 0,
+        "y": 64,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    },
+    {
+      "id": "gif-frame-7",
+      "name": "sprite-animation-frame-008.png",
+      "index": 7,
+      "frame": {
+        "x": 32,
+        "y": 64,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 32,
+        "y": 64,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    },
+    {
+      "id": "gif-frame-8",
+      "name": "sprite-animation-frame-009.png",
+      "index": 8,
+      "frame": {
+        "x": 64,
+        "y": 64,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 64,
+        "y": 64,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    },
+    {
+      "id": "gif-frame-9",
+      "name": "sprite-animation-frame-010.png",
+      "index": 9,
+      "frame": {
+        "x": 0,
+        "y": 96,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 0,
+        "y": 96,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    },
+    {
+      "id": "gif-frame-10",
+      "name": "sprite-animation-frame-011.png",
+      "index": 10,
+      "frame": {
+        "x": 32,
+        "y": 96,
+        "w": 32,
+        "h": 32
+      },
+      "cell": {
+        "x": 32,
+        "y": 96,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "durationMs": 150,
+      "originalDurationMs": 150
+    }
+  ],
+  "meta": {
+    "app": "SpriteSheetKit",
+    "image": "sprite-animation-sheet.png",
+    "size": {
+      "w": 96,
+      "h": 128
+    },
+    "cellSize": {
+      "w": 32,
+      "h": 32
+    },
+    "columns": 3,
+    "rows": 4,
+    "padding": 0,
+    "margin": 0,
+    "scale": 1,
+    "timing": "original",
+    "fps": null,
+    "loopCount": 0,
+    "loopCountSemantics": "gif-netscape-repeat-count",
+    "frameCount": 11,
+    "totalDurationMs": 1650,
+    "originalTotalDurationMs": 1650,
+    "sourceKind": "gif"
+  }
+}
