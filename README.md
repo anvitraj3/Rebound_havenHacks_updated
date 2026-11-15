@@ -1,4 +1,4 @@
-# 🎮 Rebound
+# Rebound
 
 *A 2D platformer built with Python and Pygame.*
 
@@ -28,7 +28,7 @@ Jump across platforms, use your double jump to reach difficult spots, and keep m
 | `W` / `↑` | Jump |
 | `W` / `↑` (midair) | Double jump |
 
-## 🛠️ Built With
+## Built With
 
 - **Python**
 - **Pygame**
